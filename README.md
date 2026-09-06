@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Nirali Patel
 
-<!--
-**nirali-patel-de/nirali-patel-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Engineer** focused on building reliable data pipelines and working with **Python, SQL, PySpark, Airflow, AWS, PostgreSQL, Docker, and Big Data technologies**.
 
-Here are some ideas to get you started:
+I enjoy working with data ingestion, transformation, ETL pipelines, distributed processing, and cloud-based data solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also bring **4+ years of software development experience**, which has strengthened my programming, database, API, and problem-solving skills.
+
+## 🚀 My Projects
+
+My GitHub projects demonstrate hands-on experience in Data Engineering, including:
+
+* 📈 **Stock Market ETL Pipeline** — Python, PySpark, Hadoop HDFS, Parquet, DuckDB, Docker
+* 🏥 **Cleveland Clinic Healthcare Data Pipeline** — PySpark, PostgreSQL, AWS S3, Glue, Athena, Lambda, EventBridge
+* 🗄️ **Medical Data History Analysis** — SQL, MySQL, Docker
+
+Each project focuses on practical **data processing, ETL, storage, transformation, and analytics**.
